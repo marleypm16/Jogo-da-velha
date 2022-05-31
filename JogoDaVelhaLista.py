@@ -66,7 +66,7 @@ while JogoEmAndamento:
         JogoEmAndamento= False
 
     if Empate(jogo):
-        print("Empate")
+        print("Empate.")
         MostrarJogo(jogo)
         JogoEmAndamento = False
    
